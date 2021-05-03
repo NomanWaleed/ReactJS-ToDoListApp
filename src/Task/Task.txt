@@ -1,0 +1,14 @@
+ASSALAM O ALAIKUM!
+Attention Required
+Saylani Web and Mobile Development course - Batch3! 
+Requirements:/
+1- Please design the below dashboard in react.js,
+2- use proper folder structure, 
+3- make the site using component base engineering,try to make component if it's reusable multiple places
+4- admin can add new user
+5- admin can update user
+6- admin can delete user
+7- use material UI for the assignments, you can explore drawer from material ui https://material-ui.com/components/drawers/
+8- need only one tab functional users.
+Submit: https://forms.gle/yx8AXCrnPAiywx7o6
+Assignment 19- Week19
